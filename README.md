@@ -11,7 +11,7 @@ OpenNur adalah institut open-source yang mewadahi pengembangan perangkat lunak I
 - **Wakaf Ilmu:** Meneladani para ulama yang mewakafkan kitabnya; kami mewakafkan kode.
 
 ## 🚀 Proyek Unggulan
-- **[Tahsin Quran](https://github.com/OpenNur/tahsin-quran)** — Aplikasi Android untuk muroja'ah dan latihan membaca Al-Quran dengan penilaian real-time dan mushaf digital.
+- **[Tahsin Qur'an](https://github.com/opennur/tahsin)** — Aplikasi Android untuk muroja'ah dan latihan membaca Al-Quran dengan penilaian real-time dan mushaf digital.
 
 *...dan akan terus bertambah, insyaAllah.*
 
