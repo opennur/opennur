@@ -19,7 +19,7 @@ OpenNur adalah proyek open-source yang mewadahi pengembangan perangkat lunak Isl
 Kami membuka pintu selebar-lebarnya bagi para developer, desainer, ahli tajwid, dan siapa pun yang ingin berkontribusi dalam kebaikan. Silakan baca [CONTRIBUTING.md](link) dan bergabunglah dalam perjuangan ini.
 
 ## 🕌 Dukung OpenNur (Wakaf Kode)
-Donasi yang masuk akan dipakai untuk biaya server, langganan AI (*qalam digital*), dan pengembangan fitur. Semua dicatat secara transparan.
+Donasi yang masuk akan dipakai untuk biaya server, dan pengembangan fitur. Semua dicatat secara transparan.
 
 - **🇮🇩 Donasi via Tako** — untuk donatur Indonesia (GoPay, OVO, Dana, transfer bank, dll).  
   [Klik di sini untuk mendukung via Tako](https://tako.id/opennur)
