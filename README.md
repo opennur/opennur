@@ -21,11 +21,11 @@ Kami membuka pintu selebar-lebarnya bagi para developer, desainer, ahli tajwid, 
 ## 🕌 Dukung OpenNur (Wakaf Kode)
 Donasi yang masuk akan dipakai untuk biaya server, langganan AI (*qalam digital*), dan pengembangan fitur. Semua dicatat secara transparan.
 
-- **🇮🇩 Donasi via Tako/Trakteer** — untuk donatur Indonesia (GoPay, OVO, Dana, transfer bank, dll).  
+- **🇮🇩 Donasi via Tako** — untuk donatur Indonesia (GoPay, OVO, Dana, transfer bank, dll).  
   [Klik di sini untuk mendukung via Tako](https://tako.id/opennur)
 
-- **🌍 Sponsor via GitHub Sponsors** — untuk donatur internasional/Barat.  
-  [Klik di sini untuk sponsor via GitHub](https://github.com/sponsors/opennur)
+- **🌍 Donasi via Ko-Fi** — untuk donatur internasional/Barat (PayPal, kartu kredit).  
+  [Klik di sini untuk mendukung via Ko-Fi](https://ko-fi.com/opennur)
 
 > **Status proyek:** OpenNur saat ini masih dikelola secara pribadi dan belum berbadan hukum resmi. Mohon doa dan dukungan agar ke depan dapat berkembang menjadi yayasan/institut yang amanah.
 
