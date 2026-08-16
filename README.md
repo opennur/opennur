@@ -3,60 +3,52 @@
 
 **Bismillahirrahmanirrahim.**
 
-OpenNur adalah proyek open-source yang mewadahi pengembangan perangkat lunak Islami sebagai **wakaf digital**. Setiap baris kode yang ditulis di sini diniatkan untuk menjadi *sadaqah jariyah* — amal yang pahalanya terus mengalir meski penulisnya telah tiada.
+OpenNur adalah proyek open-source yang berfokus pada pengembangan perangkat lunak Islami. Intinya, ini merupakan **wakaf digital**: setiap kode yang ditulis diniatkan sebagai *sadaqah jariyah*, agar pahalanya terus mengalir meskipun penulisnya telah tiada.
 
 ---
 
-## Mukadimah: Mengapa AI?
+## Mengapa Kami Menggunakan Teknologi?
 
-Di era ketika kecerdasan buatan hadir di tengah-tengah kita, mungkin pernah terlintas sebuah pertanyaan:
+Sebagai latar belakang, kami sempat merenungkan: *"Apakah teknologi canggih yang ada saat ini benar-benar bermanfaat untuk urusan agama?"*
 
-*Mengapa Allah menciptakan AI?*
+Namun, teknologi merupakan karunia Allah yang sayang apabila hanya digunakan untuk hal-hal yang kurang bermanfaat, seperti sekadar menelusuri media sosial atau percakapan yang tidak produktif. Teknologi adalah alat yang sangat kuat, dan umat Islam perlu memanfaatkannya dengan sebaik-baiknya.
 
-Pertanyaan ini—sebagaimana pertanyaan tentang hikmah di balik segala ciptaan-Nya—bukanlah untuk dijawab dengan akal yang terbatas. Tidak layak bagi kita mempertanyakan alasan di balik kehendak Allah. Yang layak bagi kita hanyalah mengambil hikmah dan menjadikannya sarana untuk mendekatkan diri kepada-Nya.
+Dahulu, membuat aplikasi jadwal sholat saja harus menulis kode dari awal, mengelola data astronomi, dan melakukan debugging hingga larut malam. Saat ini, dengan memanfaatkan alat bantu pengembangan yang tersedia, prototipe dapat diselesaikan dalam hitungan menit. Tentu ini merupakan kemudahan yang patut disyukuri.
 
-Lalu, apa hikmahnya?
-
-Menurut kami, AI adalah amanah sekaligus alat yang luar biasa. Ia adalah *resource* yang sangat powerful, yang sayang sekali jika hanya digunakan untuk urusan duniawi semata. Tentu, AI bisa membuat pekerjaan kita lebih cepat dan efisien. Namun, sayangnya, banyak dari kita justru menggunakannya untuk hal-hal yang tidak berguna: obrolan kosong, hiburan tanpa makna, sekadar iseng, atau bertanya hal-hal yang tidak bermanfaat. Padahal, AI adalah karunia besar yang bisa menjadi pembuka pintu-pintu kebaikan bagi umat Islam.
-
-Bayangkan: di zaman dahulu, kita tidak pernah memiliki akses atau kekuatan sebesar ini. Semua harus dilakukan secara manual, memakan waktu, tenaga, dan biaya yang tidak sedikit. Sekarang, dengan AI, kita cukup mengetikkan sebuah *prompt*, dan dalam hitungan detik—*boom!*—sebuah kerangka kerja, prototipe, atau solusi sudah jadi. Bukankah ini seperti secercah kemudahan yang Allah hadirkan melalui teknologi? Bukan berarti kita berhenti belajar, tetapi kita bisa melipatgandakan produktivitas dan fokus pada hal yang lebih substantif.
-
-Contoh sederhana: jika kita ingin membuat aplikasi untuk menampilkan jadwal sholat, dahulu kita harus menulis kode dari nol, mengurus data astronomi, menguji, dan memperbaiki selama berhari-hari. Sekarang, cukup ketikkan *prompt* ke AI, dan dalam beberapa menit prototipe sudah berdiri. Bukankah itu sesuatu yang sangat luar biasa?
-
-Kami membayangkan AI akan sangat berguna jika diarahkan untuk riset dan pengembangan di bidang agama. Kita bisa membuat aplikasi yang memudahkan umat belajar Al-Qur’an, memahami Nahwu dan Shorof, mengakses tafsir, menghafal doa-doa harian, hingga mendalami ilmu fiqih dengan sumber yang terpercaya. Masih banyak lagi potensi kebaikan yang bisa digali.
+Harapan kami, teknologi ini diarahkan untuk hal-hal yang bermanfaat bagi umat, misalnya mengembangkan aplikasi belajar Al-Qur'an, memahami Nahwu Shorof, mengakses tafsir, dan menghafal doa—semuanya bertujuan mendekatkan diri kepada Allah.
 
 ---
 
 ## 🌿 Misi Kami
 
-- **Alat Bantu Al-Qur'an:** Membantu umat membaca, memahami, dan mentadabburi Al-Qur'an dengan teknologi yang akurat dan mudah diakses.
-- **Transparansi & Keterbukaan:** Semua kode bersifat bebas (FOSS) di bawah lisensi GNU GPL v3 agar dapat diaudit, dipelajari, dan dikembangkan oleh siapa saja.
-- **Wakaf Ilmu:** Meneladani para ulama yang mewakafkan kitabnya; kami mewakafkan kode.
+- **Alat Bantu Al-Qur'an:** Membantu umat membaca, memahami, dan mentadabburi Al-Qur'an melalui teknologi yang akurat dan mudah diakses.
+- **Transparansi:** Seluruh kode bersifat bebas (FOSS) dengan lisensi GNU GPL v3, sehingga dapat dipelajari, dimodifikasi, dan dikembangkan oleh siapa saja.
+- **Wakaf Ilmu:** Sebagaimana para ulama dahulu mewakafkan kitab, kami mewakafkan kode.
 
 ---
 
 ## Visi
 
-Menjadi gerakan kolektif umat Islam dalam memanfaatkan kecerdasan buatan dan teknologi sumber terbuka untuk membangun ekosistem aplikasi Android yang bermanfaat, transparan, dan bebas dari kepentingan komersial.
+Menjadi gerakan bersama umat Islam dalam memanfaatkan teknologi open-source untuk membangun ekosistem aplikasi Android yang bermanfaat, transparan, dan tidak berorientasi komersial.
 
 ---
 
 ## Prinsip-Prinsip Dasar
 
 1. **Terbuka (Open Source)**  
-   Seluruh kode sumber dipublikasikan di platform seperti GitHub atau GitLab dengan lisensi FOSS (GPL v3). Siapa pun boleh membaca, mempelajari, memodifikasi, dan menyebarluaskan ulang.
+   Kode sumber dipublikasikan di GitHub/GitLab dengan lisensi GPL v3. Siapa pun boleh membaca, mempelajari, memodifikasi, dan menyebarluaskannya kembali.
 
-2. **Bermanfaat (Beneficial)**  
-   Setiap fitur dirancang untuk memberikan manfaat nyata bagi peningkatan kualitas ibadah dan pemahaman agama, bukan sekadar mengejar tren atau keuntungan.
+2. **Bermanfaat**  
+   Setiap fitur harus bermanfaat untuk meningkatkan kualitas ibadah dan pemahaman agama, bukan sekadar mengikuti tren atau mengejar keuntungan finansial.
 
-3. **Amanah (Trustworthy)**  
-   Tidak ada pelacakan data pribadi, tidak ada iklan yang mengganggu, dan tidak ada motif tersembunyi. Privasi pengguna adalah prioritas.
+3. **Amanah**  
+   Tidak ada pelacakan data pribadi, tidak ada iklan, dan tidak ada motif tersembunyi. Privasi pengguna adalah prioritas utama.
 
-4. **Ilmiah (Scholarly)**  
-   Konten keagamaan—tafsir, hadits, fiqih—disusun dengan merujuk pada sumber-sumber yang diakui dan, jika memungkinkan, melibatkan masukan dari para ulama atau penuntut ilmu.
+4. **Ilmiah**  
+   Konten keagamaan (tafsir, hadis, fikih) merujuk pada sumber yang diakui. Jika memungkinkan, melibatkan ulama atau penuntut ilmu untuk menelaah dan memberikan masukan.
 
-5. **Sederhana (Simplicity)**  
-   Antarmuka dibuat sesederhana mungkin agar mudah digunakan oleh semua kalangan, termasuk orang tua dan mereka yang tidak terbiasa dengan teknologi.
+5. **Sederhana**  
+   Antarmuka dirancang sederhana agar mudah digunakan oleh semua kalangan, termasuk orang tua yang mungkin kurang familier dengan teknologi.
 
 ---
 
@@ -64,101 +56,101 @@ Menjadi gerakan kolektif umat Islam dalam memanfaatkan kecerdasan buatan dan tek
 
 ### [Tahsin Qur'an](https://github.com/opennur/tahsin)
 
-Aplikasi Android untuk **muroja'ah & latihan baca Al-Qur'an** — dilengkapi dengan:
+Aplikasi Android untuk murojaah dan latihan membaca Al-Qur'an, dengan fitur-fitur berikut:
 
-- 📖 **Mushaf digital** gaya Utsmani (font Amiri), semua 114 surah offline, Arab + terjemahan ID/EN di-bundle.
-- 🎙️ **Penilaian bacaan real-time** lewat mikrofon: kata berubah hijau (benar), merah (salah), kuning (sedang dibaca).
-- 🎨 **Pewarnaan tajwid otomatis**: mad, ghunnah, qalqalah, ikhfa', iqlab, idgham, lam jalalah — bisa dimatikan.
-- 🔊 **Audio qari'** per ayat & per kata (Minshawy, Husary, Alafasy, dll.) dengan kecepatan 0.5×–1.25×.
-- 🔁 **Mode Flow** untuk muroja'ah tanpa melihat layar — otomatis lanjut ayat berikutnya.
-- 🧠 **Kuis Tajwid**: tebak hukum tajwid pada kata acak (4 pilihan ganda + penjelasan).
-- 📖 **Kosakata Qur'an**: 589 kata terkurasi dengan sistem SRS + quiz.
-- 🎮 **Dream BIG**: arcade kuis kosakata tak terbatas — rekor skor & streak tersimpan.
-- 📚 **Belajar Arab**: 15 pelajaran orisinal (metodologi ala Durusul Lughoh) untuk pemula.
-- 📊 **Statistik terintegrasi**: gabungan semua aktivitas belajar (Tahsin, Dream BIG, Belajar Arab, Kosakata).
-- 🔍 **Pencarian ayat** (Arab & terjemahan ID/EN) offline di seluruh 114 surah.
-- 🗓️ **Widget & notifikasi "Ayah of the Day"** — satu ayat berganti setiap hari, offline, deterministik.
-- 🌙 **Dark mode** & **ganti bahasa ID/EN**.
-- 🎨 **Custom design system** (tanpa Material 3) — ringan & khas.
+- 📖 **Mushaf digital** gaya Utsmani (font Amiri), memuat 114 surah secara offline, teks Arab serta terjemahan bahasa Indonesia dan Inggris.
+- 🎙️ **Penilaian bacaan secara real-time** melalui mikrofon: kata berwarna hijau (benar), merah (salah), dan kuning (sedang dibaca).
+- 🎨 **Pewarnaan tajwid otomatis** untuk hukum mad, ghunnah, qalqalah, ikhfa’, iqlab, idgham, dan lam jalalah, dengan opsi untuk dinonaktifkan.
+- 🔊 **Audio qari’** per ayat dan per kata (Minshawy, Husary, Alafasy, dan lainnya) dengan kecepatan 0,5×–1,25×.
+- 🔁 **Mode Flow** untuk murojaah tanpa perlu terus melihat layar—secara otomatis melanjutkan ke ayat berikutnya.
+- 🧠 **Kuis Tajwid**: menebak hukum tajwid pada kata acak (pilihan ganda empat opsi beserta penjelasan).
+- 📖 **Kosakata Al-Qur'an**: 589 kata terkurasi menggunakan sistem SRS dan kuis.
+- 🎮 **Dream BIG**: permainan arcade kuis kosakata tanpa batas, dengan rekor skor dan streak yang tersimpan.
+- 📚 **Belajar Bahasa Arab**: 15 pelajaran orisinal (dengan metodologi ala Durusul Lughoh) untuk pemula.
+- 📊 **Statistik terintegrasi** yang menggabungkan seluruh aktivitas belajar.
+- 🔍 **Pencarian ayat** (Arab dan terjemahan Indonesia/Inggris) secara offline di 114 surah.
+- 🗓️ **Widget dan notifikasi “Ayah of the Day”**—satu ayat berganti setiap hari, tersedia secara offline.
+- 🌙 **Mode gelap (dark mode)** dan pilihan bahasa Indonesia/Inggris.
+- 🎨 **Sistem desain khusus** (tanpa Material 3) yang ringan dan khas.
 
-> ⚠️ Aplikasi ini adalah **alat bantu latihan**, bukan pengganti guru. STT hanya membaca *teks* ucapan — tidak menilai makhraj atau panjang-pendek harakat.
+> ⚠️ Aplikasi ini merupakan **alat bantu latihan**, bukan pengganti guru. Teknologi pengenalan suara (STT) hanya membaca teks ucapan, sehingga tidak dapat menilai makhraj atau panjang-pendek harakat.
 
 ---
 
-## Rencana Pengembangan (Roadmap)
+## Rencana Pengembangan
 
 1. **Aplikasi Jadwal Sholat Offline**  
-   - Perhitungan waktu sholat berdasarkan lokasi (GPS atau manual).  
-   - Notifikasi adzan dengan pilihan suara.  
-   - Arah kiblat, kalender Hijriah, dan penanda hari penting.  
-   - Sepenuhnya offline, tanpa iklan, tanpa izin yang tidak perlu.
+   - Menghitung waktu sholat berdasarkan lokasi (GPS/manual).  
+   - Notifikasi azan dengan pilihan suara.  
+   - Arah kiblat, kalender Hijriah, serta hari-hari penting.  
+   - Sepenuhnya offline, tanpa iklan, dan tanpa izin yang tidak relevan.
 
-2. **Aplikasi Al-Qur’an Digital**  
-   - Teks Arab dengan tajwid berwarna.  
-   - Terjemahan Bahasa Indonesia dan beberapa bahasa lain.  
+2. **Aplikasi Al-Qur'an Digital**  
+   - Teks Arab dengan pewarnaan tajwid.  
+   - Terjemahan Bahasa Indonesia dan beberapa bahasa lainnya.  
    - Mode hafalan (murojaah) dengan pengulangan ayat.  
    - Tafsir ringkas dari sumber terpercaya.
 
 3. **Aplikasi Belajar Nahwu-Shorof Interaktif**  
-   - Modul pembelajaran bertahap dari dasar hingga mahir.  
+   - Modul bertahap dari tingkat dasar hingga mahir.  
    - Latihan i’rab dan tasrif dengan koreksi otomatis.  
-   - Integrasi AI untuk menghasilkan contoh kalimat dan latihan tambahan, dengan validasi manual oleh ahlinya.
+   - Bantuan alat modern untuk menghasilkan contoh kalimat dan latihan tambahan, yang selanjutnya divalidasi secara manual oleh ahlinya.
 
 4. **Aplikasi Dzikir & Doa Harian**  
-   - Kumpulan dzikir pagi-petang, doa harian, dan doa setelah sholat.  
-   - Fitur pengingat dan hitungan tasbih digital.  
-   - Sumber dari kitab-kitab hadits yang shahih.
+   - Dzikir pagi dan petang, doa harian, serta doa setelah sholat.  
+   - Pengingat dan penghitung tasbih digital.  
+   - Sumber dari kitab hadis sahih.
 
-5. **Ekosistem AI Islami (Eksplorasi)**  
-   - Asisten tanya jawab keislaman berbasis AI yang diarahkan untuk merujuk ke Al-Qur’an, hadits, dan kitab mu’tabar.  
-   - Fitur *fact-checking* otomatis terhadap klaim hadits.  
-   - Penerjemah kitab klasik dengan bantuan AI.  
+5. **Ekosistem Teknologi Islami (Eksplorasi)**  
+   - Asisten tanya jawab keislaman menggunakan teknologi modern, dengan rujukan kepada Al-Qur’an, hadis, dan kitab mu’tabar.  
+   - Fitur pemeriksaan fakta (fact-checking) otomatis untuk klaim hadis.  
+   - Penerjemah kitab klasik dengan bantuan teknologi modern.  
 
-   *Catatan penting: AI bukan pengganti ulama. Hasil dari AI harus selalu diverifikasi oleh manusia yang berkompeten.*
+   *Catatan: teknologi bukanlah pengganti ulama. Hasilnya harus selalu diverifikasi oleh manusia yang kompeten.*
 
 ---
 
 ## 🤝 Berkontribusi
 
-Kami membuka pintu selebar-lebarnya bagi para developer, desainer, ahli tajwid, dan siapa pun yang ingin berkontribusi dalam kebaikan. Silakan baca [CONTRIBUTING.md](CONTRIBUTING.md) dan bergabunglah dalam perjuangan ini.
+Terbuka untuk siapa saja—developer, desainer, ahli tajwid, atau siapa pun yang peduli. Silakan membaca [CONTRIBUTING.md](CONTRIBUTING.md) untuk informasi lebih lanjut.
 
-Kami mengundang:
+Kontribusi yang kami butuhkan antara lain:
 
 - **Developer Android** (Kotlin/Java/Flutter) untuk membangun dan memelihara aplikasi.
-- **Desainer UI/UX** untuk menciptakan antarmuka yang ramah dan indah.
-- **Penulis konten & penerjemah** untuk menyusun materi pembelajaran dan terjemahan.
-- **Ahli agama/penuntut ilmu** untuk memverifikasi konten keislaman.
-- **Penguji (tester)** untuk memastikan kualitas dan kenyamanan aplikasi.
-- **Siapa saja** yang peduli dan ingin belajar; tidak harus bisa coding, kontribusi sekecil apa pun berarti.
+- **Desainer UI/UX** untuk merancang antarmuka yang nyaman digunakan.
+- **Penulis konten & penerjemah** untuk menyusun materi belajar dan terjemahan.
+- **Ahli agama/penuntut ilmu** untuk memvalidasi konten keislaman.
+- **Tester** untuk memastikan kualitas dan kenyamanan aplikasi.
+- **Siapa saja** yang ingin belajar—tidak harus menguasai pemrograman; kontribusi sekecil apa pun sangat berarti.
 
-Kami percaya bahwa setiap kontribusi—baik berupa kode, desain, tulisan, doa, atau sekadar menyebarkan informasi—akan menjadi bagian dari amal jariyah yang pahalanya terus mengalir.
+Setiap kontribusi—baik kode, desain, tulisan, doa, maupun sekadar informasi—insya Allah menjadi amal jariyah yang pahalanya terus mengalir.
 
 ---
 
 ## 🕌 Dukung OpenNur (Wakaf Kode)
 
-Donasi yang masuk akan dipakai untuk biaya server dan pengembangan fitur. Semua dicatat secara transparan.
+Donasi digunakan untuk biaya server dan pengembangan fitur. Seluruhnya dicatat secara transparan.
 
-- **🇮🇩 Donasi via Tako** — untuk donatur Indonesia (GoPay, OVO, Dana, transfer bank, dll).  
-  [Klik di sini untuk mendukung via Tako](https://tako.id/opennur)
+- **🇮🇩 Donasi via Tako** — untuk donatur Indonesia (GoPay, OVO, Dana, transfer bank, dan lainnya).  
+  [Klik di sini](https://tako.id/opennur)
 
-- **🌍 Donasi via Ko-Fi** — untuk donatur internasional/Barat (PayPal, kartu kredit).  
-  [Klik di sini untuk mendukung via Ko-Fi](https://ko-fi.com/opennur)
+- **🌍 Donasi via Ko-Fi** — untuk donatur internasional (PayPal, kartu kredit).  
+  [Klik di sini](https://ko-fi.com/opennur)
 
-> **Status proyek:** OpenNur saat ini masih dikelola secara pribadi dan belum berbadan hukum resmi. Mohon doa dan dukungan agar ke depan dapat berkembang menjadi yayasan/institut yang amanah.
+> **Status:** OpenNur saat ini masih dikelola secara pribadi dan belum berbadan hukum. Mohon doa serta dukungan agar ke depannya dapat berkembang menjadi yayasan yang amanah.
 
 ---
 
 ## Penutup
 
-Sungguh, AI adalah alat. Ia bisa menjadi pedang bermata dua: membawa kehancuran jika disalahgunakan, atau membawa kemaslahatan besar jika diarahkan kepada kebaikan. Sebagai umat Islam, kita diperintahkan untuk menjadi *khairu ummah*—umat terbaik—yang menyeru kepada kebaikan dan mencegah kemungkaran. Salah satu caranya adalah dengan memanfaatkan teknologi untuk menyebarkan ilmu dan memudahkan ibadah.
+Pada intinya, teknologi adalah alat. Ia dapat digunakan untuk kebaikan maupun untuk hal yang sia-sia. Sebagai umat Islam, kita dituntut menjadi *khairu ummah*—umat terbaik yang menyeru kepada kebaikan. Salah satu caranya adalah memanfaatkan teknologi untuk menyebarkan ilmu dan mempermudah ibadah.
 
-Mari jadikan AI sebagai kuda tunggangan menuju ridha Allah, bukan sekadar mainan pelengkap waktu luang. Mari bangun warisan digital yang bermanfaat untuk generasi mendatang. Karena sebaik-baik manusia adalah yang paling bermanfaat bagi manusia lain.
+Mari jadikan teknologi sebagai sarana menuju ridha Allah, bukan sekadar hiburan. Mari bangun warisan digital yang bermanfaat bagi generasi mendatang.
 
-**“Dan tolong-menolonglah kamu dalam (mengerjakan) kebajikan dan takwa, dan jangan tolong-menolong dalam berbuat dosa dan pelanggaran.”**  
+**"Dan tolong-menolonglah kamu dalam (mengerjakan) kebajikan dan takwa, dan jangan tolong-menolong dalam berbuat dosa dan pelanggaran."**  
 (QS. Al-Ma’idah: 2)
 
-*“Barangsiapa yang menunjukkan kepada kebaikan, maka baginya pahala seperti orang yang mengerjakannya.”*  
+*"Barangsiapa yang menunjukkan kepada kebaikan, maka baginya pahala seperti orang yang mengerjakannya."*  
 (HR. Muslim)
 
 ---
