@@ -85,28 +85,15 @@ An Android app for **Quran recitation practice and review** — featuring:
    - Qibla direction, Hijri calendar, and important dates.  
    - Fully offline, no ads, no unnecessary permissions.
 
-2. **Digital Quran App**  
-   - Arabic text with colored tajweed.  
-   - Indonesian translation and several other languages.  
-   - Memorization mode (muroja'ah) with ayah repetition.  
-   - Concise tafsir from trusted sources.
-
-3. **Interactive Nahwu-Shorof Learning App**  
+2. **Interactive Nahwu-Shorof Learning App**  
    - Step-by-step modules from beginner to advanced.  
    - I'rab and tasrif exercises with automatic correction.  
    - Modern tool assistance for generating example sentences and extra exercises, validated manually by experts.
 
-4. **Daily Dhikr & Prayer App**  
+3. **Daily Dhikr & Prayer App**  
    - Morning/evening dhikr, daily prayers, and post-prayer supplications.  
    - Reminder features and digital tasbih counter.  
    - Sourced from authentic hadith collections.
-
-5. **Islamic Tech Ecosystem (Exploration)**  
-   - Islamic Q&A assistant powered by modern technology, directed to reference the Quran, hadith, and authoritative books.  
-   - Automatic fact-checking for hadith claims.  
-   - Classical book translation assisted by modern technology.  
-
-   *Important note: technology is not a replacement for scholars. Output must always be verified by competent humans.*
 
 ---
 

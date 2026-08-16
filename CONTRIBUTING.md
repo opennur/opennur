@@ -1,5 +1,7 @@
 # Contributing to OpenNur
 
+> **English version:** [contributing.en.md](contributing.en.md)
+
 **Bismillahirrahmanirrahim.**
 
 Terima kasih telah berkenan berkontribusi untuk **OpenNur Project** — proyek wakaf digital yang berfokus pada pengembangan aplikasi Islami berbasis kode terbuka.

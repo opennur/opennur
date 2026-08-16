@@ -1,6 +1,8 @@
 # OpenNur Project  
 ### Cahaya Ilmu yang Terbuka | The Open Light of Knowledge
 
+> **English version:** [readme.en.md](readme.en.md)
+
 **Bismillahirrahmanirrahim.**
 
 OpenNur adalah proyek open-source yang berfokus pada pengembangan perangkat lunak Islami. Intinya, ini merupakan **wakaf digital**: setiap kode yang ditulis diniatkan sebagai *sadaqah jariyah*, agar pahalanya terus mengalir meskipun penulisnya telah tiada.
@@ -85,28 +87,15 @@ Aplikasi Android untuk murojaah dan latihan membaca Al-Qur'an, dengan fitur-fitu
    - Arah kiblat, kalender Hijriah, serta hari-hari penting.  
    - Sepenuhnya offline, tanpa iklan, dan tanpa izin yang tidak relevan.
 
-2. **Aplikasi Al-Qur'an Digital**  
-   - Teks Arab dengan pewarnaan tajwid.  
-   - Terjemahan Bahasa Indonesia dan beberapa bahasa lainnya.  
-   - Mode hafalan (murojaah) dengan pengulangan ayat.  
-   - Tafsir ringkas dari sumber terpercaya.
-
-3. **Aplikasi Belajar Nahwu-Shorof Interaktif**  
+2. **Aplikasi Belajar Nahwu-Shorof Interaktif**  
    - Modul bertahap dari tingkat dasar hingga mahir.  
    - Latihan i’rab dan tasrif dengan koreksi otomatis.  
    - Bantuan alat modern untuk menghasilkan contoh kalimat dan latihan tambahan, yang selanjutnya divalidasi secara manual oleh ahlinya.
 
-4. **Aplikasi Dzikir & Doa Harian**  
+3. **Aplikasi Dzikir & Doa Harian**  
    - Dzikir pagi dan petang, doa harian, serta doa setelah sholat.  
    - Pengingat dan penghitung tasbih digital.  
    - Sumber dari kitab hadis sahih.
-
-5. **Ekosistem Teknologi Islami (Eksplorasi)**  
-   - Asisten tanya jawab keislaman menggunakan teknologi modern, dengan rujukan kepada Al-Qur’an, hadis, dan kitab mu’tabar.  
-   - Fitur pemeriksaan fakta (fact-checking) otomatis untuk klaim hadis.  
-   - Penerjemah kitab klasik dengan bantuan teknologi modern.  
-
-   *Catatan: teknologi bukanlah pengganti ulama. Hasilnya harus selalu diverifikasi oleh manusia yang kompeten.*
 
 ---
 
